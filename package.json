@@ -1,0 +1,18 @@
+{
+  "name": "duolingo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "duolingo": "file:",
+    "shadcn-ui": "^0.2.3"
+  }
+}
